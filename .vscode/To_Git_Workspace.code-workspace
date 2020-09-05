@@ -7,5 +7,7 @@
 			"path": "..\\..\\..\\..\\..\\Project\\Arbit\\Courses\\ML_From_Scratch"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"python.pythonPath": "C:\\Users\\PanduranganR\\Anaconda3\\envs\\myenv\\python.exe"
+	}
 }
