@@ -1,13 +1,16 @@
 {
 	"folders": [
 		{
+			"name": "AGeron_HandsOnML",
 			"path": ".."
 		},
 		{
-			"path": "..\\..\\..\\..\\..\\Project\\Arbit\\Courses\\ML_From_Scratch"
+			"name": "DiveintoDeepLearning_AlexSmola",
+			"path": "..\\..\\DiveintoDeepLearning_AlexSmola"
 		},
 		{
-			"path": "..\\..\\..\\..\\..\\Project\\Arbit\\Courses\\DiveintoDeepLearning_AlexSmola"
+			"name": "ML_From_Scratch",
+			"path": "..\\..\\ML_From_Scratch"
 		}
 	],
 	"settings": {
