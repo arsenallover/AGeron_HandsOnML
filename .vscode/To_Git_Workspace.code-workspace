@@ -11,6 +11,10 @@
 		{
 			"name": "ML_From_Scratch",
 			"path": "..\\..\\ML_From_Scratch"
+		},
+		{
+			"name": "LinearAlgebra_GilbertStrang",
+			"path": "..\\..\\LinearAlgebra_GilbertStrang"
 		}
 	],
 	"settings": {
