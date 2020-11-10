@@ -5,6 +5,18 @@
 			"path": ".."
 		},
 		{
+			"name": "Probability_Statistics",
+			"path": "..\\..\\Probability_Statistics"
+		},
+		{
+			"name": "Python_LeetCode",
+			"path": "..\\..\\Python_LeetCode"
+		},
+		{
+			"name": "Mithesh_DL",
+			"path": "..\\..\\Mithesh_DL"
+		},
+		{
 			"name": "DiveintoDeepLearning_AlexSmola",
 			"path": "..\\..\\DiveintoDeepLearning_AlexSmola"
 		},
